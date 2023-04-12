@@ -14,7 +14,7 @@ phases:
       
   post_build:
     commands:
-      - echo Done & configured
+      - echo "Done & configured"
     
 artifact:
   files:
